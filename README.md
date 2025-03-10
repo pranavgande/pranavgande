@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Pranav Gande  
 
-<!--
-**pranavgande/pranavgande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  
+- Engineering student (2nd Year)  
+- Interested in AI, Web Development & DSA  
+- Currently exploring programming and development  
 
-Here are some ideas to get you started:
+## Tech Stack  
+- Programming: Python, C, C++  
+- Web Development: HTML, CSS, JavaScript  
+- Tools: Git, Figma, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me  
+[LinkedIn](https://www.linkedin.com/in/pranavgande)  
+[GitHub](https://github.com/pranavgande)  
