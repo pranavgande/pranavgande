@@ -13,3 +13,4 @@
 ## Connect with Me  
 [LinkedIn](https://www.linkedin.com/in/pranavgande)  
 [GitHub](https://github.com/pranavgande)  
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavgande&show_icons=true&theme=radical)
